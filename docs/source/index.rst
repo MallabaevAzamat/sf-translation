@@ -1,4 +1,4 @@
-Главная
+Starfinder
 =======
 
 .. toctree::
