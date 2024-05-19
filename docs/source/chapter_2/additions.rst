@@ -58,7 +58,6 @@
     Мировоззрение
 
 .. list-table::  Мировоззрение
-   
    :widths: auto
    :header-rows: 1
    * -
