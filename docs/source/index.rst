@@ -2,5 +2,7 @@
 =======
 
 .. toctree::
-   chapter_1/*
-   chapter_2/*
+   :maxdepth: 2
+
+   chapter_1
+   chapter_2
