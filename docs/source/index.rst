@@ -1,8 +1,4 @@
 Starfinder
 =======
 
-.. toctree::
-   
-   chapter_1/index
-   chapter_2/index
-
+Работа в процессе. Желаете помочь - напишите на почту: 2013.fire@mail.com
